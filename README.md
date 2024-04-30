@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @coderpro1234-2
-- 👀 I’m interested in Programming, Html, old versions of Windows
+- 👀 I’m interested in Programming, Html, old versions of Windows, and old Tech
 - 🌱 I’m currently learning C++, Batch, Java
 - 💞️ I’m looking to collaborate on any coding project
 - 📫 You can reach me via oscarcoder99@gmail.com

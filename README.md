@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @coderpro1234-2
-- 👀 I’m interested in Programming, Html, old versions of Windows, and old Tech
-- 🌱 I’m currently learning C++, Batch, Java
-- 💞️ I’m looking to collaborate on any coding project
-- 📫 You can reach me via oscarcoder99@gmail.com
+- 👋 Hi, I’m a README!
+- 👀 I’m interested in people reading me.
+- 🌱 I’m currently learning how to get more people to read me.
+- 💞️ I’m looking to collaborate on anything, as long as in return you help me be read my other people.
+- 📫 You can reach me via https://github.com/coderpro1234-2, and view the README.md
 
-<!---
-coderpro1234-2/coderpro1234-2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Hehe, Funny -->
